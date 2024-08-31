@@ -1,4 +1,4 @@
-#Exciting News! My 100 Days of Code/DevOps Challenge Begins Today! 🚀
+# Exciting News! My 100 Days of Code/DevOps Challenge Begins Today! 🚀
 
 
 
@@ -12,4 +12,5 @@ Each day, I'll be sharing an article, insights, or updates on what I've learned.
 I look forward to sharing my progress with you and would appreciate any support, feedback, or encouragement along the way. After these 100 days, I'll be back to reflect on my journey and share everything I've learned.
 
 Let the adventure begin!
-hashtag#100DaysOfCode hashtag#Backend hashtag#DevOps hashtag#LearningJourney hashtag#CommitToGrowth
+
+#100DaysOfCode #Backend #DevOps #LearningJourney #CommitToGrowth
