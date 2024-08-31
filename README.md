@@ -1,4 +1,4 @@
-#🌟 Exciting News! My 100 Days of Code/DevOps Challenge Begins Today! 🚀
+#Exciting News! My 100 Days of Code/DevOps Challenge Begins Today! 🚀
 
 
 
