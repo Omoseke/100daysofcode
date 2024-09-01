@@ -1,5 +1,5 @@
 
-#Day 1 of My 100 Days of Code/DevOps Journey: Exploring DevOps & CI/CD 🌟
+**#Day 1 of My 100 Days of Code/DevOps Journey: Exploring DevOps & CI/CD 🌟**
 
 I am excited to dive into the core concepts of DevOps and Continuous Integration/Continuous Deployment (CI/CD).
 This journey will take me through the entire DevOps lifecycle, from coding to production, exploring how development and operations teams can work together seamlessly.
@@ -17,4 +17,5 @@ Collaboration: Enhanced collaboration between development and operations teams b
 Quality: Continuous feedback loops and automation improve the overall quality of the software.
 Agility & Flexibility: DevOps enables teams to adapt to changes quickly, maintaining agility in development and operations.
 I'm eager to explore these concepts in-depth and see how they transform the way we build and deliver software. Follow along as I continue this journey and share insights, challenges, and successes!
+
 #100DaysOfCode #DevOps #CICD #LearningInPublic #ContinuousImprovement #Agile #SoftwareDevelopment
