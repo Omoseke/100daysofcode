@@ -1,5 +1,4 @@
-
-**#Day 1 of My 100 Days of Code/DevOps Journey: Exploring DevOps & CI/CD 🌟**
+**# Day 1 of My 100 Days of Code/DevOps Journey: Exploring DevOps & CI/CD 🌟**
 
 I am excited to dive into the core concepts of DevOps and Continuous Integration/Continuous Deployment (CI/CD).
 This journey will take me through the entire DevOps lifecycle, from coding to production, exploring how development and operations teams can work together seamlessly.
